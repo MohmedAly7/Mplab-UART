@@ -1,8 +1,8 @@
 /*
- * File:   main.c
+ * File:   newmain.c
  * Author: MohmedAly7
  *
- * Created on February 13, 2017, 7:35 AM
+ * Created on February 13, 2017, 7:36 AM
  */
 
 
@@ -11,7 +11,7 @@
 
 char  count =0 ;
 void main(void) {
- inilizeReciver();
+    inilizeReciver();
     inilizeTransmit();
     TRISD=0;
   
