@@ -1,6 +1,6 @@
 /* 
  * File:   header.h
- * Author: Lenovo
+ * Author: MohmedAly7
  *
  * Created on February 6, 2017, 10:34 PM
  */
