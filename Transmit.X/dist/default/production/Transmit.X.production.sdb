@@ -1,0 +1,88 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 6 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 0 0 ]
+"24
+[v _memcpyee memcpyee `(v  1 e 0 0 ]
+"30 D:\Transmit.X\header.h
+[v _inilizeCounter inilizeCounter `(v  1 e 0 0 ]
+"38
+[v _inilizeTransmit inilizeTransmit `(v  1 e 0 0 ]
+"58
+[v _transmit transmit `(v  1 e 0 0 ]
+"13 D:\Transmit.X\main.c
+[v _main main `(v  1 e 0 0 ]
+"619 C:\Program Files (x86)\Microchip\xc8\v1.35\include\pic16f877a.h
+[v _TMR1 TMR1 `VEus  1 e 2 @14 ]
+"625
+[v _TMR1L TMR1L `VEuc  1 e 1 @14 ]
+"1031
+[v _TXREG TXREG `VEuc  1 e 1 @25 ]
+"1037
+[v _RCREG RCREG `VEuc  1 e 1 @26 ]
+"2030
+[v _SPBRG SPBRG `VEuc  1 e 1 @153 ]
+"2341
+[v _BRGH BRGH `VEb  1 e 0 @1218 ]
+"2407
+[v _CREN CREN `VEb  1 e 0 @196 ]
+"2559
+[v _RCIF RCIF `VEb  1 e 0 @101 ]
+"2593
+[v _RX9 RX9 `VEb  1 e 0 @198 ]
+"2605
+[v _SPEN SPEN `VEb  1 e 0 @199 ]
+"2625
+[v _SYNC SYNC `VEb  1 e 0 @1220 ]
+"2641
+[v _T1OSCEN T1OSCEN `VEb  1 e 0 @131 ]
+"2653
+[v _TMR1CS TMR1CS `VEb  1 e 0 @129 ]
+"2659
+[v _TMR1ON TMR1ON `VEb  1 e 0 @128 ]
+"2703
+[v _TRISC0 TRISC0 `VEb  1 e 0 @1080 ]
+"2705
+[v _TRISC1 TRISC1 `VEb  1 e 0 @1081 ]
+"2715
+[v _TRISC6 TRISC6 `VEb  1 e 0 @1086 ]
+"2717
+[v _TRISC7 TRISC7 `VEb  1 e 0 @1087 ]
+"2745
+[v _TX9 TX9 `VEb  1 e 0 @1222 ]
+"2751
+[v _TXEN TXEN `VEb  1 e 0 @1221 ]
+"2755
+[v _TXIF TXIF `VEb  1 e 0 @100 ]
+"11 D:\Transmit.X\main.c
+[v _count count `uc  1 e 1 0 ]
+"13
+[v _main main `(v  1 e 0 0 ]
+{
+"30
+} 0
+"58 D:\Transmit.X\header.h
+[v _transmit transmit `(v  1 e 0 0 ]
+{
+[v transmit@value value `uc  1 a 1 wreg ]
+[v transmit@value value `uc  1 a 1 wreg ]
+[v transmit@value value `uc  1 a 1 0 ]
+"63
+} 0
+"38
+[v _inilizeTransmit inilizeTransmit `(v  1 e 0 0 ]
+{
+"48
+} 0
+"30
+[v _inilizeCounter inilizeCounter `(v  1 e 0 0 ]
+{
+"37
+} 0
