@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: Lenovo
+ * Author: MohmedAly7
  *
  * Created on February 12, 2017, 9:30 AM
  */
